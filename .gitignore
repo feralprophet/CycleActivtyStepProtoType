@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/CycleActivtyStepProtoType/bin/Debug
+/.vs/CycleActivtyStepProtoType/v14
+/CycleActivtyStepProtoType/obj/Debug
+/packages/Ninject.3.2.2.0
